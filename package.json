@@ -13,7 +13,7 @@
     "relatedToolId": [],
     "version": "0.0.1",
     "description": "Extract texts from HTML",
-    "repository": "",
+    "repository": "https://github.com/zhenweiwang1990/html-text-extractor",
     "icon": "ToolOutlined",
     "category": [
       "text", "web"
