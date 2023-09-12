@@ -11,7 +11,7 @@
     "id": "html-text-extractor",
     "isPublic": true,
     "relatedToolId": [],
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Extract texts from HTML",
     "repository": "https://github.com/zhenweiwang1990/html-text-extractor",
     "icon": "ToolOutlined",
