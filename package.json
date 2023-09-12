@@ -1,0 +1,36 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "publish": "he3 publish",
+    "i18n": "he3 i18n",
+    "version": "he3 version"
+  },
+  "he3": {
+    "name": "HTML Text Extractor",
+    "id": "html-text-extractor",
+    "isPublic": true,
+    "relatedToolId": [],
+    "version": "0.0.1",
+    "description": "Extract texts from HTML",
+    "repository": "",
+    "icon": "ToolOutlined",
+    "category": [
+      "text", "web"
+    ],
+    "keywords": [
+      "html", "extract", "text"
+    ]
+  },
+  "dependencies": {
+    "@he3-kit/utils": "latest",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}
